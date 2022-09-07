@@ -1,0 +1,3 @@
+(defmodule Plain.Foobar
+  (def baz (x) (+ x 1))
+  (def qux (y) (- y 1)))
