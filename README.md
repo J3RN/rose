@@ -1,6 +1,6 @@
-# Rose
+# ROSE
 
-**TODO: Add description**
+Random Obscure Syntaxes for Elixir
 
 ## Installation
 
